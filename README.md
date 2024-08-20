@@ -1,6 +1,8 @@
 # Saving-Dr.-Elara-Mission-Rescue
 
 This repository contains the programming assignments for BBM203 Software Practicum I at Hacettepe University, Fall 2023.
+
+
 Topics: Binary Search Trees, Red-Black Trees, KD-trees, kNN classification, Recursion, Dynamic Memory Allocation, File I/O
 
 ## Assignments Overview
