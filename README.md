@@ -34,8 +34,8 @@ Ensure you have the following software installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/BBM203_SoftwarePracticum.git
-    cd BBM203_SoftwarePracticum
+    git clone https://github.com/EfeAydinalp/Saving-Dr.-Elara-Mission-Rescue
+    cd Saving-Dr.-Elara-Mission-Rescue
     ```
 
 2. Compile the code using a C++ compiler:
