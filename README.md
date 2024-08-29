@@ -70,12 +70,3 @@ Each assignment contains specific tasks related to data structures and algorithm
 
 If you wish to contribute, feel free to fork the repository, make changes, and submit a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Thanks to the course instructors and TAs for their guidance.
-- References and third-party libraries (if any) used should be acknowledged here.
-
